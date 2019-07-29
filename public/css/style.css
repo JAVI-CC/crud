@@ -1,0 +1,31 @@
+.boton-login {
+    CURSOR: hand;
+}
+
+.boton-compra {
+    CURSOR: hand;
+}
+
+.boton-entrega {
+    CURSOR: hand;
+}
+
+.boton-stock {
+    CURSOR: hand;
+}
+
+.boton-producto {
+    margin-top: 2rem!important;
+}
+
+.boton-entregas {
+    margin-top: 2rem!important;
+}
+
+#login-laravel {
+    margin-right: 12px;
+}
+
+#logout-laravel {
+    margin-left: 12px;
+}
